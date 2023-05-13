@@ -10,3 +10,6 @@ Breeze & Vue
 * php artisan migrate
 * npm install
 * npm run dev
+
+## Jalankan client app
+php artisan serve
